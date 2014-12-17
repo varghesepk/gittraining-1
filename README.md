@@ -4,5 +4,7 @@
 
 ##2014
 
+##Traning Git hub on commandline
+
 
 ## changes
